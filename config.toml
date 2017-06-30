@@ -29,6 +29,8 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://twitter.com/theeffortreport"
 
 [params]
+    brand = "![The Effort Report](/img/logo_sm.png)"
+    subtitle = "A Podcast About Life in Academia"
     description = "A website built through Hugo and blogdown."
 
     # options for highlight.js (version, additional languages, and theme)
@@ -41,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "img/logo.png"
     width = 50
     height = 50
     alt = "Logo"
