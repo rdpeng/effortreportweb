@@ -13,8 +13,6 @@ Elizabeth Matsui and Roger Peng occasionally do the Effort Report Impact Score, 
 
 * Please submit **one page**. This can be Specific Aims page, a Project Summary, or an Objectives page (or equivalent). Anything longer will be deleted immediately.
 
-* If you are a student or postdoctoral fellow, we will look at fellowship applications where research is proposed (but please keep it to one page).
-
 * A cover letter/email providing background/context is okay but not required.
 
 * Please submit a PDF file only. It just makes our lives easier.
