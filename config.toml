@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "The Effort Report Podcast"
 theme = "blackburn"
 googleAnalytics = ""
+publishDir = "docs"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
