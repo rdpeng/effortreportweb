@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Effort Report Podcast</title>
+    <link>/</link>
+    <description>Recent content on The Effort Report Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effort Report Impact Score</title>
+      <link>/2017/06/08/score/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/08/score/</guid>
+      <description>Elizabeth Matsui and Roger Peng occasionally do the Effort Report Impact Score, in which they look at listener-submitted grants and offer suggestions. It’s not a competition and there are no rewards. We do it strictly for educational purposes when we believe that our audience could learn from our discussion of the grant. If you’d like us to consider your grant, here are some important rules:
+ Please submit one page.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The Effort Report is a podcast about life as an academic. The podcast is co-hosted by Roger Peng and Elizabeth Matsui
+Hosts Elizabeth Matsui is a Professor of Pediatrics, Epidemiology and Environmental Health Sciences at Johns Hopkins University and a practicing pediatric allergist/immunologist. She directs a data management and analysis center with Dr. Peng that supports epidemiologic studies and clinical trials and is co-founder of Skybrude Consulting, LLC, a data science consulting firm.</description>
+    </item>
+    
+  </channel>
+</rss>
